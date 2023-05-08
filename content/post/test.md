@@ -1,7 +1,7 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
-date: {{ .Date }}
-lastmod: {{ .Date }}
+title: "Test"
+date: 2023-05-08T15:02:38+08:00
+lastmod: 2023-05-08T15:02:38+08:00
 draft: true
 keywords: []
 description: ""
