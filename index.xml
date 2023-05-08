@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>zl的博客</title>
+    <title>Even - A super concise theme for Hugo</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on zl的博客</description>
+    <description>Recent content on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 08 May 2023 01:53:34 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>关于思考的认知</title>
       <link>http://localhost:1313/post/consider/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 May 2023 01:53:34 +0800</pubDate>
       
       <guid>http://localhost:1313/post/consider/</guid>
-      <description>人的大脑一般分为两个系统 `` 识别系统（指第一反应，ex:认人识字，某某定式） 智能逻辑系统（游戏，面试，创作，思考） 这里我们着重描述系统二，也就</description>
+      <description>人的大脑一般分为两个系统 识别系统（指第一反应，ex:认人识字，某某定式） 智能逻辑系统（游戏，面试，创作，思考） 这里我们着重描述系统二，也就是</description>
+    </item>
+    
+    <item>
+      <title>[日本語] 敬語体系</title>
+      <link>http://localhost:1313/post/test/</link>
+      <pubDate>Wed, 30 Aug 2017 01:53:34 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/test/</guid>
+      <description>日本語の敬語体系は、一般に、大きく尊敬語・謙譲語・丁寧語に分類される。文化審議会国語分科会は、2007年2月に「敬語の指針」を答申し、これに</description>
     </item>
     
   </channel>
